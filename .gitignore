@@ -1,0 +1,5 @@
+projects/orbittools/configure.user.bat
+projects/orbittools/deploy/configure.user.bat
+projects/orbittools/orbittools/configure.user.bat
+projects/orbittools/qd/configure.user.bat
+projects/orbittools/sgp4/configure.user.bat
