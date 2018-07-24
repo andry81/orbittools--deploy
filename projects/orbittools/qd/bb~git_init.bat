@@ -66,7 +66,6 @@ pushd "%~dp0%WCROOT%" && (
   (
     git remote get-url origin > nul 2> nul && call :CMD git remote set-url origin "%%ORBITTOOLS_QD.GIT2.ORIGIN%%"
   ) || call :CMD git remote add origin "%%ORBITTOOLS_QD.GIT2.ORIGIN%%" || ( popd & goto EXIT )
-  (
 
   popd
 )

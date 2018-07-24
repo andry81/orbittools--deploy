@@ -16,7 +16,7 @@ set /A NEST_LVL+=1
   echo.
   echo.set "ORBITTOOLS_DEPLOY.SVN.REPOROOT=https://%%SVN.HUB_ROOT%%/orbittools/deploy"
   echo.set "ORBITTOOLS_ORBITTOOLS.SVN.REPOROOT=https://%%SVN.HUB_ROOT%%/orbittools/orbittools"
-  echo.set "ORBITTOOLS_SQP4.SVN.REPOROOT=https://%%SVN.HUB_ROOT%%/orbittools/sgp4"
+  echo.set "ORBITTOOLS_SGP4.SVN.REPOROOT=https://%%SVN.HUB_ROOT%%/orbittools/sgp4"
   echo.set "ORBITTOOLS_QD.SVN.REPOROOT=https://%%SVN.HUB_ROOT%%/orbittools/qd_"
   echo.
   echo.set "ORBITTOOLS_DEPLOY.GIT.ORIGIN=https://%%GIT.USER%%@%%GIT.HUB_ROOT%%/%%GIT.REPO_OWNER%%/orbittools--deploy.git"
