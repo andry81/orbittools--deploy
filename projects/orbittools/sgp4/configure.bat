@@ -14,6 +14,7 @@ set /A NEST_LVL+=1
   echo.set "SVN.WCROOT_DIR=sf~sgp4"
   echo.set "GIT.WCROOT_DIR=gh~sgp4"
   echo.set "GIT2.WCROOT_DIR=bb~sgp4"
+  echo.set "GIT3.WCROOT_DIR=gl~sgp4"
   echo.
 ) > "%~dp0configure.user.bat"
 

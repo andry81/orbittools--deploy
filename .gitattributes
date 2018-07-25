@@ -25,6 +25,11 @@ projects/orbittools/orbittools/gh~git_pull_all.bat -text
 projects/orbittools/orbittools/gh~git_reset_all.bat -text
 projects/orbittools/orbittools/gh~svn_to_git_fetch.bat -text
 projects/orbittools/orbittools/gh~svn_to_git_sync_all.bat -text
+projects/orbittools/orbittools/gl~git_init.bat -text
+projects/orbittools/orbittools/gl~git_pull_all.bat -text
+projects/orbittools/orbittools/gl~git_reset_all.bat -text
+projects/orbittools/orbittools/gl~svn_to_git_fetch.bat -text
+projects/orbittools/orbittools/gl~svn_to_git_sync_all.bat -text
 projects/orbittools/orbittools/sf~svn_checkout_all.bat -text
 projects/orbittools/orbittools/sf~svn_update_all.bat -text
 projects/orbittools/qd/bb~git_init.bat -text
@@ -38,6 +43,11 @@ projects/orbittools/qd/gh~git_pull_all.bat -text
 projects/orbittools/qd/gh~git_reset_all.bat -text
 projects/orbittools/qd/gh~svn_to_git_fetch.bat -text
 projects/orbittools/qd/gh~svn_to_git_sync_all.bat -text
+projects/orbittools/qd/gl~git_init.bat -text
+projects/orbittools/qd/gl~git_pull_all.bat -text
+projects/orbittools/qd/gl~git_reset_all.bat -text
+projects/orbittools/qd/gl~svn_to_git_fetch.bat -text
+projects/orbittools/qd/gl~svn_to_git_sync_all.bat -text
 projects/orbittools/qd/sf~svn_checkout_all.bat -text
 projects/orbittools/qd/sf~svn_update_all.bat -text
 projects/orbittools/sgp4/bb~git_init.bat -text
@@ -51,5 +61,10 @@ projects/orbittools/sgp4/gh~git_pull_all.bat -text
 projects/orbittools/sgp4/gh~git_reset_all.bat -text
 projects/orbittools/sgp4/gh~svn_to_git_fetch.bat -text
 projects/orbittools/sgp4/gh~svn_to_git_sync_all.bat -text
+projects/orbittools/sgp4/gl~git_init.bat -text
+projects/orbittools/sgp4/gl~git_pull_all.bat -text
+projects/orbittools/sgp4/gl~git_reset_all.bat -text
+projects/orbittools/sgp4/gl~svn_to_git_fetch.bat -text
+projects/orbittools/sgp4/gl~svn_to_git_sync_all.bat -text
 projects/orbittools/sgp4/sf~svn_checkout_all.bat -text
 projects/orbittools/sgp4/sf~svn_update_all.bat -text

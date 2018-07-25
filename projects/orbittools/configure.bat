@@ -29,6 +29,10 @@ set /A NEST_LVL+=1
   echo.set "ORBITTOOLS_SGP4.GIT2.ORIGIN=https://%%GIT2.USER%%@%%GIT2.HUB_ROOT%%/%%GIT2.REPO_OWNER%%/orbittools-sgp4.git"
   echo.set "ORBITTOOLS_QD.GIT2.ORIGIN=https://%%GIT2.USER%%@%%GIT2.HUB_ROOT%%/%%GIT2.REPO_OWNER%%/orbittools-qd.git"
   echo.
+  echo.set "ORBITTOOLS_ORBITTOOLS.GIT3.ORIGIN=https://%%GIT3.USER%%@%%GIT3.HUB_ROOT%%/%%GIT3.REPO_OWNER%%/orbittools--orbittools.git"
+  echo.set "ORBITTOOLS_SGP4.GIT3.ORIGIN=https://%%GIT3.USER%%@%%GIT3.HUB_ROOT%%/%%GIT3.REPO_OWNER%%/orbittools--sgp4.git"
+  echo.set "ORBITTOOLS_QD.GIT3.ORIGIN=https://%%GIT3.USER%%@%%GIT3.HUB_ROOT%%/%%GIT3.REPO_OWNER%%/orbittools--qd.git"
+  echo.
 ) > "%~dp0configure.user.bat"
 
 for /F "usebackq eol=	 tokens=* delims=" %%i in (`dir /A:D /B "%~dp0*.*"`) do (
