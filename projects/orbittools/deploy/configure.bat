@@ -11,9 +11,9 @@ set /A NEST_LVL+=1
 (
   echo.@echo off
   echo.
-  echo.set "SVN.WCROOT_DIR=sf~orbittools--deploy"
-  echo.set "GIT.WCROOT_DIR=gh~orbittools--deploy"
-  echo.set "GIT2.WCROOT_DIR=bb~orbittools--deploy"
+  echo.set "SVN.WCROOT_DIR=sf~svn~orbittools--deploy"
+  echo.set "GIT.WCROOT_DIR=gh~git~orbittools--deploy"
+  echo.set "GIT2.WCROOT_DIR=bb~git~orbittools--deploy"
   echo.
 ) > "%~dp0configure.user.bat"
 
