@@ -1,6 +1,8 @@
 * text=auto !eol
 projects/orbittools/README_EN.txt -text
+projects/orbittools/__init__.bat -text
 projects/orbittools/configure.bat -text
+projects/orbittools/deploy/__init__.bat -text
 projects/orbittools/deploy/bb~git_init.bat -text
 projects/orbittools/deploy/bb~git_pull_all.bat -text
 projects/orbittools/deploy/bb~git_reset_all.bat -text
@@ -14,6 +16,7 @@ projects/orbittools/deploy/gh~git~svn_fetch.bat -text
 projects/orbittools/deploy/gh~git~svn_sync_all.bat -text
 projects/orbittools/deploy/sf~svn~checkout_all.bat -text
 projects/orbittools/deploy/sf~svn~update_all.bat -text
+projects/orbittools/orbittools/__init__.bat -text
 projects/orbittools/orbittools/bb~git_init.bat -text
 projects/orbittools/orbittools/bb~git_pull_all.bat -text
 projects/orbittools/orbittools/bb~git_reset_all.bat -text
@@ -32,6 +35,7 @@ projects/orbittools/orbittools/gl~git~svn_fetch.bat -text
 projects/orbittools/orbittools/gl~git~svn_sync_all.bat -text
 projects/orbittools/orbittools/sf~svn~checkout_all.bat -text
 projects/orbittools/orbittools/sf~svn~update_all.bat -text
+projects/orbittools/qd/__init__.bat -text
 projects/orbittools/qd/bb~git_init.bat -text
 projects/orbittools/qd/bb~git_pull_all.bat -text
 projects/orbittools/qd/bb~git_reset_all.bat -text
@@ -50,6 +54,7 @@ projects/orbittools/qd/gl~git~svn_fetch.bat -text
 projects/orbittools/qd/gl~git~svn_sync_all.bat -text
 projects/orbittools/qd/sf~svn~checkout_all.bat -text
 projects/orbittools/qd/sf~svn~update_all.bat -text
+projects/orbittools/sgp4/__init__.bat -text
 projects/orbittools/sgp4/bb~git_init.bat -text
 projects/orbittools/sgp4/bb~git_pull_all.bat -text
 projects/orbittools/sgp4/bb~git_reset_all.bat -text
