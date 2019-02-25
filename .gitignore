@@ -1,5 +1,9 @@
 projects/orbittools/configure.user.bat
-projects/orbittools/deploy/configure.user.bat
-projects/orbittools/orbittools/configure.user.bat
-projects/orbittools/qd/configure.user.bat
-projects/orbittools/sgp4/configure.user.bat
+projects/orbittools/deploy/*.lst
+projects/orbittools/deploy/*.vars
+projects/orbittools/orbittools/*.lst
+projects/orbittools/orbittools/*.vars
+projects/orbittools/qd/*.lst
+projects/orbittools/qd/*.vars
+projects/orbittools/sgp4/*.lst
+projects/orbittools/sgp4/*.vars

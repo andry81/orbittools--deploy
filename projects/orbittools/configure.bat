@@ -12,7 +12,7 @@ set /A NEST_LVL+=1
   echo.@echo off
   echo.
   echo.set PROJECT_NAME=orbittools
-  echo.set "WCROOT_OFFSET=../../../../_%%PROJECT_NAME%%"
+  echo.set "WCROOT_OFFSET=%%CONFIGURE_ROOT%%/../../_%%PROJECT_NAME%%"
   echo.
   echo.set "ORBITTOOLS_DEPLOY.SVN.REPOROOT=https://%%SVN.HUB_ROOT%%/orbittools/deploy"
   echo.set "ORBITTOOLS_ORBITTOOLS.SVN.REPOROOT=https://%%SVN.HUB_ROOT%%/orbittools/orbittools"
