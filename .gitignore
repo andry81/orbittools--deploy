@@ -1,4 +1,4 @@
-projects/orbittools/configure.user.bat
+projects/orbittools/*.vars
 projects/orbittools/deploy/*.lst
 projects/orbittools/deploy/*.vars
 projects/orbittools/orbittools/*.lst

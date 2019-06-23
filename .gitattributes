@@ -1,6 +1,7 @@
 * text=auto !eol
 projects/orbittools/README_EN.txt -text
 projects/orbittools/__init__.bat -text
+projects/orbittools/config.vars.in -text
 projects/orbittools/configure.bat -text
 projects/orbittools/deploy/__init__.bat -text
 projects/orbittools/deploy/bb~git~init.bat -text
