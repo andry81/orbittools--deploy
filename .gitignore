@@ -1,9 +1,14 @@
 projects/orbittools/*.vars
+projects/orbittools/.log
 projects/orbittools/deploy/*.lst
 projects/orbittools/deploy/*.vars
+projects/orbittools/deploy/.log
 projects/orbittools/orbittools/*.lst
 projects/orbittools/orbittools/*.vars
+projects/orbittools/orbittools/.log
 projects/orbittools/qd/*.lst
 projects/orbittools/qd/*.vars
+projects/orbittools/qd/.log
 projects/orbittools/sgp4/*.lst
 projects/orbittools/sgp4/*.vars
+projects/orbittools/sgp4/.log
