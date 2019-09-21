@@ -1,4 +1,6 @@
+projects/orbittools/*.lst
 projects/orbittools/*.vars
+projects/orbittools/*.yaml
 projects/orbittools/.log
 projects/orbittools/deploy/*.lst
 projects/orbittools/deploy/*.vars
