@@ -1,5 +1,3 @@
-SVN.REPOROOT:               ${ORBITTOOLS_ORBITTOOLS.SVN.REPOROOT}
-
 SVN.WCROOT_DIR:             sf~svn~orbittools
 GIT.WCROOT_DIR:             gh~git~orbittools
 GIT2.WCROOT_DIR:            bb~git~orbittools

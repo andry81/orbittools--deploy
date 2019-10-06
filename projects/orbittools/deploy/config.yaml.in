@@ -1,5 +1,3 @@
-SVN.REPOROOT:               ${ORBITTOOLS_DEPLOY.SVN.REPOROOT}
-
 SVN.WCROOT_DIR:             sf~svn~orbittools--deploy
 GIT.WCROOT_DIR:             gh~git~orbittools--deploy
 GIT2.WCROOT_DIR:            bb~git~orbittools--deploy

@@ -1,5 +1,3 @@
-SVN.REPOROOT:               ${ORBITTOOLS_SGP4.SVN.REPOROOT}
-
 SVN.WCROOT_DIR:             sf~svn~sgp4
 GIT.WCROOT_DIR:             gh~git~sgp4
 GIT2.WCROOT_DIR:            bb~git~sgp4
