@@ -20,6 +20,7 @@ projects/orbittools/deploy/gh~git~push_svn_to_git.bat -text
 projects/orbittools/deploy/gh~git~reset.bat -text
 projects/orbittools/deploy/git_repos.lst.in -text
 projects/orbittools/deploy/sf~svn~checkout.bat -text
+projects/orbittools/deploy/sf~svn~relocate.bat -text
 projects/orbittools/deploy/sf~svn~update.bat -text
 projects/orbittools/orbittools/__init__.bat -text
 projects/orbittools/orbittools/bb~git~fetch.bat -text
@@ -42,6 +43,7 @@ projects/orbittools/orbittools/gl~git~pull.bat -text
 projects/orbittools/orbittools/gl~git~push_svn_to_git.bat -text
 projects/orbittools/orbittools/gl~git~reset.bat -text
 projects/orbittools/orbittools/sf~svn~checkout.bat -text
+projects/orbittools/orbittools/sf~svn~relocate.bat -text
 projects/orbittools/orbittools/sf~svn~update.bat -text
 projects/orbittools/qd/__init__.bat -text
 projects/orbittools/qd/bb~git~fetch.bat -text
@@ -64,6 +66,7 @@ projects/orbittools/qd/gl~git~pull.bat -text
 projects/orbittools/qd/gl~git~push_svn_to_git.bat -text
 projects/orbittools/qd/gl~git~reset.bat -text
 projects/orbittools/qd/sf~svn~checkout.bat -text
+projects/orbittools/qd/sf~svn~relocate.bat -text
 projects/orbittools/qd/sf~svn~update.bat -text
 projects/orbittools/sgp4/__init__.bat -text
 projects/orbittools/sgp4/bb~git~fetch.bat -text
@@ -86,4 +89,5 @@ projects/orbittools/sgp4/gl~git~pull.bat -text
 projects/orbittools/sgp4/gl~git~push_svn_to_git.bat -text
 projects/orbittools/sgp4/gl~git~reset.bat -text
 projects/orbittools/sgp4/sf~svn~checkout.bat -text
+projects/orbittools/sgp4/sf~svn~relocate.bat -text
 projects/orbittools/sgp4/sf~svn~update.bat -text
