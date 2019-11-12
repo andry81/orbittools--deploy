@@ -1,5 +1,5 @@
 PROJECT_NAME:                       orbittools
-WCROOT_OFFSET:                      ${env:CONFIGURE_ROOT:path}/../../_${PROJECT_NAME}
+WCROOT_OFFSET:                      ${CONFIGURE_ROOT}/../../_${PROJECT_NAME}
 
 ORBITTOOLS_DEPLOY.SVN.REPOROOT:     svn+ssh://${SVN.HUB_ROOT}/orbittools/deploy
 ORBITTOOLS_ORBITTOOLS.SVN.REPOROOT: svn+ssh://${SVN.HUB_ROOT}/orbittools/orbittools
