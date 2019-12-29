@@ -1,6 +1,6 @@
-SVN.WCROOT_DIR:             sf~svn~orbittools
-GIT.WCROOT_DIR:             gh~git~orbittools
-GIT2.WCROOT_DIR:            bb~git~orbittools
-GIT3.WCROOT_DIR:            gl~git~orbittools
+SVN.WCROOT_DIR:             sf~svn~orbittools--orbittools
+GIT.WCROOT_DIR:             gh~git~orbittools--orbittools
+GIT2.WCROOT_DIR:            bb~git~orbittools--orbittools
+GIT3.WCROOT_DIR:            gl~git~orbittools--orbittools
 
 SVN.CHECKOUT_URL:           ${ORBITTOOLS_ORBITTOOLS.SVN.REPOROOT}/trunk

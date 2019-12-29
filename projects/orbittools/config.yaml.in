@@ -1,21 +1,25 @@
 PROJECT_NAME:                       orbittools
 WCROOT_OFFSET:                      ${CONFIGURE_ROOT}/../../_${PROJECT_NAME}
 
+ORBITTOOLS_PROJECTS.SVN.REPOROOT:   svn+ssh://${SVN.HUB_ROOT}/orbittools/projects
 ORBITTOOLS_DEPLOY.SVN.REPOROOT:     svn+ssh://${SVN.HUB_ROOT}/orbittools/deploy
 ORBITTOOLS_ORBITTOOLS.SVN.REPOROOT: svn+ssh://${SVN.HUB_ROOT}/orbittools/orbittools
 ORBITTOOLS_SGP4.SVN.REPOROOT:       svn+ssh://${SVN.HUB_ROOT}/orbittools/sgp4
 ORBITTOOLS_QD.SVN.REPOROOT:         svn+ssh://${SVN.HUB_ROOT}/orbittools/qd_
 
+ORBITTOOLS_PROJECTS.GIT.ORIGIN:     https://${GIT.HUB_ROOT}/${GIT.REPO_OWNER}/orbittools--projects.git
 ORBITTOOLS_DEPLOY.GIT.ORIGIN:       https://${GIT.HUB_ROOT}/${GIT.REPO_OWNER}/orbittools--deploy.git
 ORBITTOOLS_ORBITTOOLS.GIT.ORIGIN:   https://${GIT.HUB_ROOT}/${GIT.REPO_OWNER}/orbittools--orbittools.git
 ORBITTOOLS_SGP4.GIT.ORIGIN:         https://${GIT.HUB_ROOT}/${GIT.REPO_OWNER}/orbittools--sgp4.git
 ORBITTOOLS_QD.GIT.ORIGIN:           https://${GIT.HUB_ROOT}/${GIT.REPO_OWNER}/orbittools--qd.git
 
+ORBITTOOLS_PROJECTS.GIT2.ORIGIN:    https://${GIT2.HUB_ROOT}/${GIT2.REPO_OWNER}/orbittools-projects.git
 ORBITTOOLS_DEPLOY.GIT2.ORIGIN:      https://${GIT2.HUB_ROOT}/${GIT2.REPO_OWNER}/orbittools-deploy.git
 ORBITTOOLS_ORBITTOOLS.GIT2.ORIGIN:  https://${GIT2.HUB_ROOT}/${GIT2.REPO_OWNER}/orbittools-orbittools.git
 ORBITTOOLS_SGP4.GIT2.ORIGIN:        https://${GIT2.HUB_ROOT}/${GIT2.REPO_OWNER}/orbittools-sgp4.git
 ORBITTOOLS_QD.GIT2.ORIGIN:          https://${GIT2.HUB_ROOT}/${GIT2.REPO_OWNER}/orbittools-qd.git
 
+ORBITTOOLS_PROJECTS.GIT3.ORIGIN:    https://${GIT3.HUB_ROOT}/${GIT3.REPO_OWNER}/orbittools--projects.git
 ORBITTOOLS_ORBITTOOLS.GIT3.ORIGIN:  https://${GIT3.HUB_ROOT}/${GIT3.REPO_OWNER}/orbittools--orbittools.git
 ORBITTOOLS_SGP4.GIT3.ORIGIN:        https://${GIT3.HUB_ROOT}/${GIT3.REPO_OWNER}/orbittools--sgp4.git
 ORBITTOOLS_QD.GIT3.ORIGIN:          https://${GIT3.HUB_ROOT}/${GIT3.REPO_OWNER}/orbittools--qd.git

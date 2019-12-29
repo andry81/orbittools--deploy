@@ -1,6 +1,26 @@
 * text=auto !eol
 projects/orbittools/README_EN.txt -text
 projects/orbittools/__init__.bat -text
+projects/orbittools/_projects/__init__.bat -text
+projects/orbittools/_projects/bb~git~compare_commits.bat -text
+projects/orbittools/_projects/bb~git~fetch.bat -text
+projects/orbittools/_projects/bb~git~init.bat -text
+projects/orbittools/_projects/bb~git~pull.bat -text
+projects/orbittools/_projects/bb~git~push_svn_to_git.bat -text
+projects/orbittools/_projects/bb~git~reset.bat -text
+projects/orbittools/_projects/config.vars.in -text
+projects/orbittools/_projects/config.yaml.in -text
+projects/orbittools/_projects/configure.bat -text
+projects/orbittools/_projects/gh~git~compare_commits.bat -text
+projects/orbittools/_projects/gh~git~fetch.bat -text
+projects/orbittools/_projects/gh~git~init.bat -text
+projects/orbittools/_projects/gh~git~pull.bat -text
+projects/orbittools/_projects/gh~git~push_svn_to_git.bat -text
+projects/orbittools/_projects/gh~git~reset.bat -text
+projects/orbittools/_projects/git_repos.lst.in -text
+projects/orbittools/_projects/sf~svn~checkout.bat -text
+projects/orbittools/_projects/sf~svn~relocate.bat -text
+projects/orbittools/_projects/sf~svn~update.bat -text
 projects/orbittools/config.vars.in -text
 projects/orbittools/config.yaml.in -text
 projects/orbittools/configure.bat -text

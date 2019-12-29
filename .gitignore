@@ -2,6 +2,10 @@ projects/orbittools/*.lst
 projects/orbittools/*.vars
 projects/orbittools/*.yaml
 projects/orbittools/.log
+projects/orbittools/_projects/*.lst
+projects/orbittools/_projects/*.vars
+projects/orbittools/_projects/*.yaml
+projects/orbittools/_projects/.log
 projects/orbittools/deploy/*.lst
 projects/orbittools/deploy/*.vars
 projects/orbittools/deploy/*.yaml
