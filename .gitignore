@@ -13,6 +13,11 @@ projects/orbittools/deploy/*.lst
 projects/orbittools/deploy/*.vars
 projects/orbittools/deploy/*.yaml
 projects/orbittools/deploy/.log
+projects/orbittools/orbittools-p1/*.bat
+projects/orbittools/orbittools-p1/*.lst
+projects/orbittools/orbittools-p1/*.vars
+projects/orbittools/orbittools-p1/*.yaml
+projects/orbittools/orbittools-p1/.log
 projects/orbittools/orbittools/*.bat
 projects/orbittools/orbittools/*.lst
 projects/orbittools/orbittools/*.vars
@@ -23,6 +28,11 @@ projects/orbittools/qd/*.lst
 projects/orbittools/qd/*.vars
 projects/orbittools/qd/*.yaml
 projects/orbittools/qd/.log
+projects/orbittools/sgp4-p1/*.bat
+projects/orbittools/sgp4-p1/*.lst
+projects/orbittools/sgp4-p1/*.vars
+projects/orbittools/sgp4-p1/*.yaml
+projects/orbittools/sgp4-p1/.log
 projects/orbittools/sgp4/*.bat
 projects/orbittools/sgp4/*.lst
 projects/orbittools/sgp4/*.vars

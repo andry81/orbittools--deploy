@@ -4,9 +4,13 @@ projects/orbittools/_projects/git_repos.lst.in -text
 projects/orbittools/config.yaml.in -text
 projects/orbittools/deploy/config.yaml.in -text
 projects/orbittools/deploy/git_repos.lst.in -text
+projects/orbittools/orbittools-p1/config.yaml.in -text
+projects/orbittools/orbittools-p1/git_repos.lst.in -text
 projects/orbittools/orbittools/config.yaml.in -text
 projects/orbittools/orbittools/git_repos.lst.in -text
 projects/orbittools/qd/config.yaml.in -text
 projects/orbittools/qd/git_repos.lst.in -text
+projects/orbittools/sgp4-p1/config.yaml.in -text
+projects/orbittools/sgp4-p1/git_repos.lst.in -text
 projects/orbittools/sgp4/config.yaml.in -text
 projects/orbittools/sgp4/git_repos.lst.in -text

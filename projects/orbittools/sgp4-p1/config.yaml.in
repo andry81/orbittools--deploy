@@ -1,0 +1,6 @@
+SVN.WCROOT_DIR:             sf~svn~orbittools--sgp4-p1
+GIT.WCROOT_DIR:             gh~git~orbittools--sgp4-p1
+GIT2.WCROOT_DIR:            bb~git~orbittools--sgp4-p1
+GIT3.WCROOT_DIR:            gl~git~orbittools--sgp4-p1
+
+SVN.CHECKOUT_URL:           ${ORBITTOOLS_SGP4_P1.SVN.REPOROOT}/trunk
